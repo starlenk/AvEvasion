@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.exe
+*.dll
+*.exp
+*.lib
+*.a
+*.cache
+*.bin
+
+# Build outputs
+builds/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
