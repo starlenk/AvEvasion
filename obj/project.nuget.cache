@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IOz/nExfHHU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\av-evasion-toolkit\\EvasionToolkit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.1\\microsoft.net.illink.tasks.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

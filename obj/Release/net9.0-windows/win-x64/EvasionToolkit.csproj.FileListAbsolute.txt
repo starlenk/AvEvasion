@@ -1,0 +1,12 @@
+C:\Users\Lenovo\av-evasion-toolkit\bin\Release\net9.0-windows\win-x64\EvasionToolkit.exe
+C:\Users\Lenovo\av-evasion-toolkit\bin\Release\net9.0-windows\win-x64\EvasionToolkit.deps.json
+C:\Users\Lenovo\av-evasion-toolkit\bin\Release\net9.0-windows\win-x64\EvasionToolkit.runtimeconfig.json
+C:\Users\Lenovo\av-evasion-toolkit\bin\Release\net9.0-windows\win-x64\EvasionToolkit.dll
+C:\Users\Lenovo\av-evasion-toolkit\obj\Release\net9.0-windows\win-x64\EvasionToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\av-evasion-toolkit\obj\Release\net9.0-windows\win-x64\EvasionToolkit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\av-evasion-toolkit\obj\Release\net9.0-windows\win-x64\EvasionToolkit.AssemblyInfo.cs
+C:\Users\Lenovo\av-evasion-toolkit\obj\Release\net9.0-windows\win-x64\EvasionToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\av-evasion-toolkit\obj\Release\net9.0-windows\win-x64\EvasionToolkit.dll
+C:\Users\Lenovo\av-evasion-toolkit\obj\Release\net9.0-windows\win-x64\refint\EvasionToolkit.dll
+C:\Users\Lenovo\av-evasion-toolkit\obj\Release\net9.0-windows\win-x64\EvasionToolkit.genruntimeconfig.cache
+C:\Users\Lenovo\av-evasion-toolkit\obj\Release\net9.0-windows\win-x64\ref\EvasionToolkit.dll
